@@ -1,0 +1,8 @@
+  2   1   2    2   0    2    463.63194375   1035333333.33 
+  3   0   2    2   1    2   38.8657970464       2.607e+11 
+  3   1   2    2   0    2   35.1086871427 6.17666666667e+11 
+  3   1   2    3   0    2   1676.35584989   96066666.6667 
+  3   2   2    2   1    2   37.6584586652      1.9064e+12 
+100	0	0	0	0	0	1.0	1.0
+# upper n l s  lower  n l s   Energy (Angstrom) Einstein A (s-1)
+# File computed on 15/03/19 using the RAP package (Witthoeft, 2011) using NIST data 

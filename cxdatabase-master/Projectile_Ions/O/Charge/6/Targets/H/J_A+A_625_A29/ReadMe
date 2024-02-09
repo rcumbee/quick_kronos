@@ -1,0 +1,85 @@
+J/A+A/625/A29       Slow collisions of O6+ with H cross section     (Lin+, 2019)
+================================================================================
+Electron capture in slow collisions of O^6+^ ions with atomic hydrogen.
+    Lin X.H., Wu Y., Wang J.G., Shao B., Janev R.K.
+    <Astron. Astrophys. 625, A29 (2019)>
+    =2019A&A...625A..29L        (SIMBAD/NED BibCode)
+================================================================================
+ADC_Keywords: Atomic physics
+Keywords: solar wind - atomic data
+
+Abstract:
+    The electron capture in collisions of highly charged O6^+^ ions with
+    ground state hydrogen atom is a very important process in the solar
+    wind X-ray studies. In the present study, the full quantum-mechanical
+    molecular-orbital close-coupling (QMOCC) method is employed to study
+    electron capture reactions in collisions of O6+ion with the ground
+    state atomic hydrogen in the energy region from 10^-4^keV/u to 5keV/u.
+    The ab initio multi-reference single and double excitation
+    configuration interaction (MRD-CI) method is used to calculate the
+    potential and coupling data used in the QMOCC calculations. Total and
+    state-selective cross sections for the dominant and subdominant
+    reaction channels are calculated and compared with the available
+    experimental and theoretical data. The branching ratios for
+    Lithium-like O^5+^ excited ions are used to calculate the contribution
+    of cascade radiative transitions from n=5 levels to the population of
+    4l states. From the calculated cross sections, reaction rate
+    coefficients are obtained for temperatures between 1000 and 1x10^9^K
+    and compared with other calculations.
+
+Description:
+    In the present study we employed the full quantum-mechanical
+    molecular-orbital close-coupling (QMOCC) method to study the dynamics
+    of this process in detail in the energy range from 10^-4^keV/u to
+    5keV/u.
+
+File Summary:
+--------------------------------------------------------------------------------
+ FileName  Lrecl  Records Explanations
+--------------------------------------------------------------------------------
+ReadMe        80        . This file
+table2.dat   120       27 The results of present QMOCC calculations for total,
+                           n-shell and nl-state selective cross section with
+                           the basis, consisting of fifty molecular states
+table3.dat   121       29 The results of present QMOCC calculations for total,
+                           n-shell and nl-state selective cross section with
+                           the basis, consisting of thirty-four molecular states
+table4.dat    41       27 The cascade corrected cross sections for capture to
+                           4l states
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: table[23].dat
+--------------------------------------------------------------------------------
+   Bytes Format  Units     Label     Explanations
+--------------------------------------------------------------------------------
+   1-  6  E6.4   keV/u     E         Collision energy
+   8- 15  F8.5   10-16cm2  TotalCT   Total charge transfer cross section
+  17- 24  F8.5   10-16cm2  n=4       n-shell=4 selective cross section
+  26- 33  F8.5   10-16cm2  n=5       n-shell=5 selective cross section
+  35- 41  F7.5   10-16cm2  4s        nl-state=4s selective cross section
+  43- 50  F8.5   10-16cm2  4p        nl-state=4p selective cross section
+  53- 60  F8.5   10-16cm2  4d        nl-state=4d selective cross section
+  62- 69  F8.5   10-16cm2  4f        nl-state=4f selective cross section
+  71- 80  E10.6  10-16cm2  5s        nl-state=5s selective cross section
+  82- 88  F7.5   10-16cm2  5p        nl-state=5p selective cross section
+  90- 99  E10.6  10-16cm2  5d        nl-state=4d selective cross section
+ 101-110  E10.5  10-16cm2  5f        nl-state=5f selective cross section
+ 112-121  E10.5  10-16cm2  5g        nl-state=5g selective cross section
+--------------------------------------------------------------------------------
+
+Byte-by-byte Description of file: table4.dat
+--------------------------------------------------------------------------------
+   Bytes Format   Units      Label     Explanations
+--------------------------------------------------------------------------------
+   1-  6  E6.4    keV/u      E         Collison energy
+   8- 14  F7.5    10-16cm2   4s        nl-state=4s selective cross section
+  16- 23  F8.5    10-16cm2   4p        nl-state=4p selective cross section
+  25- 32  F8.5    10-16cm2   4d        nl-state=4d selective cross section
+  34- 41  F8.5    10-16cm2   4f        nl-state=4f selective cross section
+--------------------------------------------------------------------------------
+
+Acknowledgements:
+    Xiaohe Lin, xiaohelin1989(at)163.com
+
+================================================================================
+(End)                                        Patricia Vannier [CDS]  06-Mar-2019
